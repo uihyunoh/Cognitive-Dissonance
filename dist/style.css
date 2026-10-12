@@ -1,0 +1,80 @@
+:root {
+  color-scheme: light;
+  background: #fff;
+  color: #040000;
+  font-family: Arial, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html, body { margin: 0; min-width: 280px; }
+
+body { background: #fff; }
+
+.composition {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  height: 100svh;
+  min-height: 400px;
+  overflow: hidden;
+}
+
+.artwork {
+  position: absolute;
+  left: 49.974375%;
+  top: 45.253368%;
+  width: min(56.816797%, 125vh);
+  margin: 0;
+  transform: translate(-50%, -50%);
+  line-height: 0;
+  font-size: 0;
+  font-weight: normal;
+}
+
+img { display: block; width: 100%; height: auto; }
+
+.control {
+  position: absolute;
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  color: inherit;
+  background: transparent;
+  font: inherit;
+  text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Positions measured from the supplied 2560 × 1440 composition. */
+.return { left: 3.845898%; top: 6.495486%; width: 4.681641%; }
+.view { left: 32.55957%; top: 76.288889%; width: 4.514844%; }
+.photo { left: 48.067969%; top: 76.290278%; width: 3.864063%; }
+.artist { left: 62.925781%; top: 76.290278%; width: 6.964063%; }
+
+.control::after {
+  content: "";
+  position: absolute;
+  inset: -16px -10px;
+}
+
+.control:disabled { opacity: 1; cursor: default; }
+a.control { cursor: pointer; }
+a.control:hover { opacity: .55; }
+a.control:focus-visible { outline: 1px solid #040000; outline-offset: 10px; }
+
+@media (max-width: 800px) and (max-aspect-ratio: 4/3) {
+  .composition { min-height: 480px; }
+  .return { left: 7%; top: 6.5%; width: 73.415px; }
+  .artwork { left: 50%; top: 43%; width: 88%; }
+  .view, .photo, .artist { top: 68%; transform: translateX(-50%); }
+  .view { left: 21%; width: 70.799px; }
+  .photo { left: 48.5%; width: 60.593px; }
+  .artist { left: 79%; width: 108.733px; }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a.control { transition: opacity 150ms ease; }
+}

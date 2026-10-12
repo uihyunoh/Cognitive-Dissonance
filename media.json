@@ -1,0 +1,186 @@
+{
+  "photos": [
+    {
+      "source": "스크린샷 2026-10-03 173312.png",
+      "alt": "캐릭터 모델의 정면 작업 화면",
+      "src": "./assets/media/photo-04.webp",
+      "srcset": "./assets/media/photo-04-small.webp 886w, ./assets/media/photo-04.webp 1080w",
+      "width": 1080,
+      "height": 1462,
+      "bytes": 39148,
+      "small_bytes": 24974
+    },
+    {
+      "source": "스크린샷 2026-10-03 173643.png",
+      "alt": "캐릭터의 뼈대와 리깅 작업 화면",
+      "src": "./assets/media/photo-05.webp",
+      "srcset": "./assets/media/photo-05-small.webp 960w, ./assets/media/photo-05.webp 1303w",
+      "width": 1303,
+      "height": 1507,
+      "bytes": 126186,
+      "small_bytes": 65108
+    },
+    {
+      "source": "스크린샷 2026-10-03 174551.png",
+      "alt": "노란 구조물 안 캐릭터 테스트 장면",
+      "src": "./assets/media/photo-06.webp",
+      "srcset": "./assets/media/photo-06-small.webp 960w, ./assets/media/photo-06.webp 1444w",
+      "width": 1444,
+      "height": 1066,
+      "bytes": 82702,
+      "small_bytes": 38344
+    },
+    {
+      "source": "스크린샷 2026-10-04 003239.png",
+      "alt": "캐릭터 머티리얼 노드 작업 화면",
+      "src": "./assets/media/photo-07.webp",
+      "srcset": "./assets/media/photo-07-small.webp 960w, ./assets/media/photo-07.webp 1752w",
+      "width": 1752,
+      "height": 1239,
+      "bytes": 73720,
+      "small_bytes": 32476
+    },
+    {
+      "source": "스크린샷 2026-10-04 233649.png",
+      "alt": "도시 건축물과 도로의 3D 장면",
+      "src": "./assets/media/photo-08.webp",
+      "srcset": "./assets/media/photo-08-small.webp 960w, ./assets/media/photo-08.webp 1368w",
+      "width": 1368,
+      "height": 1078,
+      "bytes": 187404,
+      "small_bytes": 94150
+    },
+    {
+      "source": "스크린샷 2026-10-05 032928.png",
+      "alt": "캐릭터 동작 블루프린트 작업 화면",
+      "src": "./assets/media/photo-09.webp",
+      "srcset": "./assets/media/photo-09-small.webp 960w, ./assets/media/photo-09.webp 1737w",
+      "width": 1737,
+      "height": 876,
+      "bytes": 79306,
+      "small_bytes": 31256
+    },
+    {
+      "source": "스크린샷 2026-10-05 155958.png",
+      "alt": "도시 공간과 카메라 뷰 작업 화면",
+      "src": "./assets/media/photo-10.webp",
+      "srcset": "./assets/media/photo-10-small.webp 960w, ./assets/media/photo-10.webp 1398w",
+      "width": 1398,
+      "height": 925,
+      "bytes": 203828,
+      "small_bytes": 88930
+    },
+    {
+      "source": "스크린샷 2026-10-06 195200.png",
+      "alt": "거울 앞에서 마주 보는 두 캐릭터",
+      "src": "./assets/media/photo-11.webp",
+      "srcset": "./assets/media/photo-11-small.webp 960w, ./assets/media/photo-11.webp 1915w",
+      "width": 1915,
+      "height": 1179,
+      "bytes": 200792,
+      "small_bytes": 65678
+    },
+    {
+      "source": "스크린샷 2026-10-07 052659.png",
+      "alt": "도시 배경의 캐릭터 편집 화면",
+      "src": "./assets/media/photo-12.webp",
+      "srcset": "./assets/media/photo-12-small.webp 960w, ./assets/media/photo-12.webp 2000w",
+      "width": 2000,
+      "height": 1375,
+      "bytes": 111276,
+      "small_bytes": 35044
+    },
+    {
+      "source": "스크린샷 2026-10-07 103134.png",
+      "alt": "지하철 내부에 서 있는 캐릭터",
+      "src": "./assets/media/photo-13.webp",
+      "srcset": "./assets/media/photo-13-small.webp 960w, ./assets/media/photo-13.webp 1371w",
+      "width": 1371,
+      "height": 820,
+      "bytes": 121168,
+      "small_bytes": 61906
+    },
+    {
+      "source": "스크린샷 2026-10-08 013003.png",
+      "alt": "지하철 내부의 캐릭터 효과 작업 화면",
+      "src": "./assets/media/photo-14.webp",
+      "srcset": "./assets/media/photo-14-small.webp 960w, ./assets/media/photo-14.webp 1459w",
+      "width": 1459,
+      "height": 763,
+      "bytes": 141644,
+      "small_bytes": 56724
+    },
+    {
+      "source": "IMG_9560(1).jpeg",
+      "alt": "거울로 둘러싸인 지하철과 파란 카메라 형태의 인물, 측면",
+      "src": "./assets/media/photo-01.webp",
+      "srcset": "./assets/media/photo-01-small.webp 960w, ./assets/media/photo-01.webp 1536w",
+      "width": 1536,
+      "height": 1142,
+      "bytes": 118046,
+      "small_bytes": 47620
+    },
+    {
+      "source": "IMG_9563(1).jpeg",
+      "alt": "지하철 안 파란 카메라 형태의 인물, 위에서 본 장면",
+      "src": "./assets/media/photo-02.webp",
+      "srcset": "./assets/media/photo-02-small.webp 960w, ./assets/media/photo-02.webp 1536w",
+      "width": 1536,
+      "height": 1032,
+      "bytes": 152644,
+      "small_bytes": 59128
+    },
+    {
+      "source": "IMG_9562(1).jpeg",
+      "alt": "지하철 거울 앞 파란 카메라 속 얼굴과 인물의 정면",
+      "src": "./assets/media/photo-03.webp",
+      "srcset": "./assets/media/photo-03-small.webp 960w, ./assets/media/photo-03.webp 1536w",
+      "width": 1536,
+      "height": 1153,
+      "bytes": 220170,
+      "small_bytes": 80876
+    }
+  ],
+  "videos": [
+    {
+      "source": "시퀀스 02.mp4",
+      "title": "지하철 시퀀스",
+      "src": "./assets/media/film-01.mp4",
+      "poster": "./assets/media/film-01-poster.webp",
+      "duration": 65.833333,
+      "width": 1920,
+      "height": 1080,
+      "bytes": 21674657
+    },
+    {
+      "source": "confirm.mp4",
+      "title": "캐릭터 애니메이션 작업",
+      "src": "./assets/media/film-02.mp4",
+      "poster": "./assets/media/film-02-poster.webp",
+      "duration": 6.1333,
+      "width": 1920,
+      "height": 1042,
+      "bytes": 752497
+    },
+    {
+      "source": "confirm 5.mp4",
+      "title": "캐릭터 동작 테스트",
+      "src": "./assets/media/film-03.mp4",
+      "poster": "./assets/media/film-03-poster.webp",
+      "duration": 40.2333,
+      "width": 1288,
+      "height": 714,
+      "bytes": 9746059
+    },
+    {
+      "source": "confirm 7.mp4",
+      "title": "도시 공간 동작 테스트",
+      "src": "./assets/media/film-04.mp4",
+      "poster": "./assets/media/film-04-poster.webp",
+      "duration": 30.266633,
+      "width": 1898,
+      "height": 1080,
+      "bytes": 15627958
+    }
+  ]
+}
